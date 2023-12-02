@@ -26,5 +26,4 @@
 *Sendo o vermelho para baixar temperaturas, amarelo para altas temperaturas e o verde entre 2 e 6 graus.
 *Ultilização de um LCD 16x2 para o controle e para mostrar informações na tela.
 
-##Link - 
-*[Link Tinkercad](https://www.tinkercad.com/things/9fQFNH8k1dQ-bodacious-wluff/editel?returnTo=%2Fthings%2F9fQFNH8k1dQ-bodacious-wluff)
+##[Link Tinkercad](https://www.tinkercad.com/things/9fQFNH8k1dQ-bodacious-wluff/editel?returnTo=%2Fthings%2F9fQFNH8k1dQ-bodacious-wluff)
